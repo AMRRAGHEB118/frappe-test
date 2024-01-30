@@ -1,6 +1,4 @@
-## my app test
-
-myAppTest
+## frappe-test
 
 #### License
 
